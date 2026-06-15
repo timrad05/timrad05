@@ -2,6 +2,8 @@
 
 Есть опыт командной разработки и коммерческих заказов: лендинги, магазины, админки; умею довести фичу до конца и выложить в прод.
 
+## [![timrad.tech](https://img.shields.io/badge/-timrad.tech-090909?style=for-the-badge&logo=googlechrome&logoColor=white)](https://timrad.tech)
+
 *Открыт к предложениям, удалённо.*
 
 ## Стек
