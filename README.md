@@ -1,3 +1,7 @@
+<a href="https://timrad.tech" target="_blank">
+  <img src="assets/header.jpg" alt="timrad.tech" width="100%"/>
+</a>
+
 ## Frontend-разработчик
 
 Есть опыт командной разработки и коммерческих заказов: лендинги, магазины, админки; умею довести фичу до конца и выложить в прод.
